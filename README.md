@@ -6,7 +6,7 @@ While in school, I started a real estate investment company, where I have been w
 
 Active Projects:
 Airbnb Data -
- Utilizing econometrics and hierarchical clustering on data from Airbnb listings in order to draw conclusions about hosts, locations, competition, and other factors.
+ Utilizing data from insideairbnb.com to gather information about the Dallas market. I import, clean, and standardize the data, then describe the data using various metrics and visualizations. Next, I create a linear regression to draw conclusions about how property features affect pricing. Eventually, it will include a machine learning application to cluster hosts and produce stronger regressions and results.
  This is currently a work in progress
 
 Example Projects:
